@@ -1,0 +1,1 @@
+appName = 'Light flash example'
